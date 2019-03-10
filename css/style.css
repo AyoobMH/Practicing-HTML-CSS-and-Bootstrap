@@ -1,0 +1,28 @@
+.navbar-brand img{
+    width: 30px;
+    height: 30px;
+}
+
+body{
+    background-color: #ADD8E6;
+}
+
+#first-jumb{
+    background-color: #F0F8FF;
+    margin-top: 100px;
+}
+
+#second-jumb-HomePage{
+    background-color: #23bcea;
+    margin-bottom: 30px;
+}
+
+#second-jumb-About{
+    background-color: #F0F8FF;
+    margin-bottom: 30px;
+}
+#card-signup{
+    margin-bottom: 20px;
+    background-color: lightgreen;
+}
+
